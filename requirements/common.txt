@@ -3,7 +3,7 @@ python-magic~=0.4.13
 elasticsearch==5.4.0
 pyquery~=1.2.17
 
-django~=1.11.0
+django==1.11.2
 django-extensions~=1.7.6
 django-taggit~=0.21.5
 django-haystack~=2.6.0
