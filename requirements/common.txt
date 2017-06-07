@@ -9,5 +9,5 @@ django-taggit~=0.21.5
 django-haystack~=2.6.0
 
 # API
-djangorestframework~=3.6.2
+djangorestframework==3.6.3
 markdown~=2.6.8
