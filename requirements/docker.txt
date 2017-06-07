@@ -1,4 +1,4 @@
 -r common.txt
 
 ipython
-tox
+tox==2.7.0
