@@ -1,5 +1,5 @@
 -r common.txt
 
 django-autofixture
-mock
+mock==2.0.0
 tblib
