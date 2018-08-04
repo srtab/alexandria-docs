@@ -1,10 +1,13 @@
-site_name: AlexandriaDocs - Documentation
-site_description: AlexandriaDocs - Host for static generated documentation
-site_author: Sandro Rodrigues
-repo_url: https://github.com/srtab/alexandriadocs
-edit_uri: blob/master/docs
-pages:
-    - Home: index.md
+site_name:         AlexandriaDocs - Documentation
+site_description:  AlexandriaDocs - Host for static generated documentation
+
+site_author:       Sandro Rodrigues
+
+repo_url:          https://github.com/srtab/alexandriadocs
+edit_uri:          blob/master/docs
+
+nav:
+    - Home:        index.md
     - Accounts:
         - User permissions: accounts/permissions.md
     - Projects:
